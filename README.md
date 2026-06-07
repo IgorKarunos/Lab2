@@ -24,4 +24,4 @@ H = -Σ p(x) * log₂(p(x))
 - Maven
 - REST API
 
-![img.png](%20image/img.png)
+![img.png](src/%20image/img.png)
